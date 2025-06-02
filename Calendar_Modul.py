@@ -1,10 +1,11 @@
-import calendar  # import --> module (os, math, datatime)
+# https://youtube.com/shorts/KnmwX_vqyvI?si=a92-UrCDQgBXC8TH
+import calendar
 
 
 myapp = calendar.month(2025, 6, 1)
-# var --> modul.fun(arg)
-# modull --> klassen, konst., funkt.
+
+
 
 
 print(myapp)
-# print --> ausgabefukt --> app
+
