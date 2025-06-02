@@ -1,7 +1,7 @@
-# pip install qrcode
-import qrcode                 # Import qrcode-Modul
+# https://youtube.com/shorts/KnmwX_vqyvI?si=W41xpTyjD7b8haMN
+import qrcode
 
 
-qr_inhalt = 't.me/mschrot'    # Variable --> definiere den Inhalt des QR-Codes
-img = qrcode.make(qr_inhalt)  # Erzeuge den QR-Code
-img.save('qrcode.png')        # Save --> QR-Code.png
+qr_inhalt = 't.me/mschrot'
+img = qrcode.make(qr_inhalt)
+img.save('qrcode.png')
