@@ -1,4 +1,5 @@
 # https://youtube.com/shorts/KnmwX_vqyvI?si=W41xpTyjD7b8haMN
+
 import qrcode
 
 
