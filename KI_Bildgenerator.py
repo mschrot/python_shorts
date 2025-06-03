@@ -1,4 +1,5 @@
 # https://youtube.com/shorts/hinplDA-kUw?si=1jC_Zmsh76goGYTE
+
 '''
 g4f/                ← Paket
 ├── __init__.py
