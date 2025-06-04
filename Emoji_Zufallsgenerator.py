@@ -1,4 +1,4 @@
-
+# https://youtube.com/shorts/MiyHuTzxxUI?si=cDPjZ0j1-4qE3JcA
 
 # Unicode Emoji 🔥 💡 🧪 🎲 
 import random   # import Modull
